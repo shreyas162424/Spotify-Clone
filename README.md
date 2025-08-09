@@ -6,7 +6,7 @@ This project mimics the look and feel of Spotify's web interface, featuring a si
 ---
 
 ## 📸 Project Link
-() 
+(https://shreyas162424.github.io/Spotify-Clone/) 
 
 
 ---
